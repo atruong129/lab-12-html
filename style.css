@@ -1,13 +1,21 @@
-
-
-
-p{}
-
-
-h1{}
-
-
-body{}
-
-
-h2{}
+h1 {
+	color: #00FF00;
+	background-color: blue;
+}
+body {
+	font-family: sans-serif;
+}
+h1 {
+	text-transform: capitalize;
+	margin: 20px;
+	padding: 40px;
+	border-width: 5px;
+	border-style: dashed;
+	border-color: blue;
+}
+.spotlight {
+	background-color: red;
+}
+h2 {
+	color: green;
+}
